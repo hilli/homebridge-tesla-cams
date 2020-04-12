@@ -1,0 +1,26 @@
+{
+  "name": "homebridge-tesla-cams",
+  "version": "0.0.1",
+  "description": "Use your Teslas Sentry Mode as security cameras in HomeBridge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/hilli/homebridge-tesla-cams"
+  },
+  "keywords": [
+    "homebridge-plugin",
+    "homebridge",
+    "tesla",
+    "cam",
+    "cams",
+    "plugin",
+    "camera",
+    "homekit",
+    "surveillance"
+  ],
+  "author": "Jens Hilligsoe <jens@hilli.dk>",
+  "license": "ISC"
+}
